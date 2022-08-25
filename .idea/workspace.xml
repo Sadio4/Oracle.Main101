@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="77828be1-4552-4d78-819b-f809730bb91d" name="Changes" comment="first commit">
-      <change afterPath="$PROJECT_DIR$/src/ColorRange.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ColorRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ColorRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FlipCoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FlipCoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchEx1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwitchEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SwitchEx2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +47,14 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ColorRange">
+    <configuration name="ColorRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ColorRange" />
+      <module name="FlipCoin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SwitchEx1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-18.0.2" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
@@ -54,9 +64,18 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwitchEx2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchEx2" />
+      <module name="FlipCoin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ColorRange" />
         <item itemvalue="Application.SwitchEx1" />
+        <item itemvalue="Application.SwitchEx2" />
       </list>
     </recent_temporary>
   </component>
@@ -93,5 +112,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint enabled="true" type="java-exception" />
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
